@@ -10,7 +10,7 @@
 </head>
 
 <body class="bg-[#0F0F1A] text-[#E4E5EC]">
-    <main class="mx-auto max-w-screen-lg space-y-6">
+    <main class="">
         <?php require "../views/{$view}.view.php"; ?>
     </main>
 </body>
